@@ -1,5 +1,5 @@
 # GSLC-Authentication-Session-10
-Albert Reinaldo 2401960826
+Albert Reinaldo LA01 2401960826
 
 Cara menjalankan proyek authentication laravel
 1. Aktifkan XAMPP Apache dan MySQL pada XAMPP Control Panel
